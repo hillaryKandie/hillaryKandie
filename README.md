@@ -4,6 +4,7 @@
 <br>
 
 <p> I'm an IT <strong>student</strong> with a passion for building <strong>highly usable web applications</strong>.</p>
+<p> Currently i am a freelancer at [software costs](https://softwarecosts.com/)
 
 <img src="https://github.com/thuanpham2311/thuanpham2311/raw/master/img/ongDev.webp">
 
